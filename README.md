@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Ramath Manjitha
 
-I'm a **Project Manager** and **Software Engineer** with a strong background in full stack development. I enjoy building scalable software solutions, managing projects, and exploring modern technologies.
+I'm a **Software Engineer** with a strong background in full stack development. I enjoy building scalable software solutions, managing projects, and exploring modern technologies.
 
 ---
 
